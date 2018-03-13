@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+validator.Checked=src/main/resources/static/js,src/main/resources/templates
+validator.Revalidate=true
+validator.Unchecked=
